@@ -1,0 +1,14 @@
+C:\Users\agilab\source\repos\TaskDatatime\TaskDatatime\bin\Debug\netcoreapp3.1\TaskDatatime.exe
+C:\Users\agilab\source\repos\TaskDatatime\TaskDatatime\bin\Debug\netcoreapp3.1\TaskDatatime.deps.json
+C:\Users\agilab\source\repos\TaskDatatime\TaskDatatime\bin\Debug\netcoreapp3.1\TaskDatatime.runtimeconfig.json
+C:\Users\agilab\source\repos\TaskDatatime\TaskDatatime\bin\Debug\netcoreapp3.1\TaskDatatime.runtimeconfig.dev.json
+C:\Users\agilab\source\repos\TaskDatatime\TaskDatatime\bin\Debug\netcoreapp3.1\TaskDatatime.dll
+C:\Users\agilab\source\repos\TaskDatatime\TaskDatatime\bin\Debug\netcoreapp3.1\TaskDatatime.pdb
+C:\Users\agilab\source\repos\TaskDatatime\TaskDatatime\obj\Debug\netcoreapp3.1\TaskDatatime.csproj.AssemblyReference.cache
+C:\Users\agilab\source\repos\TaskDatatime\TaskDatatime\obj\Debug\netcoreapp3.1\TaskDatatime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agilab\source\repos\TaskDatatime\TaskDatatime\obj\Debug\netcoreapp3.1\TaskDatatime.AssemblyInfoInputs.cache
+C:\Users\agilab\source\repos\TaskDatatime\TaskDatatime\obj\Debug\netcoreapp3.1\TaskDatatime.AssemblyInfo.cs
+C:\Users\agilab\source\repos\TaskDatatime\TaskDatatime\obj\Debug\netcoreapp3.1\TaskDatatime.csproj.CoreCompileInputs.cache
+C:\Users\agilab\source\repos\TaskDatatime\TaskDatatime\obj\Debug\netcoreapp3.1\TaskDatatime.dll
+C:\Users\agilab\source\repos\TaskDatatime\TaskDatatime\obj\Debug\netcoreapp3.1\TaskDatatime.pdb
+C:\Users\agilab\source\repos\TaskDatatime\TaskDatatime\obj\Debug\netcoreapp3.1\TaskDatatime.genruntimeconfig.cache
